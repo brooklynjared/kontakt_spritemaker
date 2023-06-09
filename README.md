@@ -1,2 +1,2 @@
-# kontakt_spritemaker
+# Kontakt Spritemaker
 Python script for making NI Kontakt spritesheets
